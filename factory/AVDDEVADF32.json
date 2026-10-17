@@ -1,0 +1,15 @@
+{
+	"name": "AVDDEVADF32",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "376980d2-b84a-4eff-9d13-dfeefcd0d1a0",
+		"tenantId": "61f958b9-7781-4e6c-932f-7f72761dac9b"
+	}
+}
